@@ -27,7 +27,7 @@ def printKurang(arr):
 
 if(__name__ == "__main__"):
     name = input("Masukkan nama file(tanpa ekstensi): ")
-    name = "test\\" + name + ".txt"
+    name = "..\\test\\" + name + ".txt"
     matPuzzle, indexKosong = parsePuzzle(name)
     moveSeq = []
     arrKurang = []

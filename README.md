@@ -7,11 +7,11 @@ Program 15-Puzzle-Solver menggunakan algoritma Branch and Bound yang menggunakan
 - modul tkinter
 
 ## Cara menjalankan program
-###Alternatif 1
+### Alternatif 1
 1. Pilih ingin menggunakan CLI(PuzzleSolver.py) atau GUI(PuzzleSolverGUI.py) 
 2. Jalankan dengan command "python {nama file}"
 
-###Alternatif 2
+### Alternatif 2
 1. Klik 2x file .bat di folder BIN sesuai yang ingin digunakan(CLI atau GUI)
 
 ## Cara menggunakan program
